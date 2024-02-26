@@ -8,4 +8,7 @@ class Calci{
         System.out.println(sub(num1, num2));
         sc.close();
     }
+    public static void add(int num1, int nnum2){
+        return num1+num2;
+    }
 }
